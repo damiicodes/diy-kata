@@ -1,0 +1,15 @@
+{
+  "name": "diy-kata-mytests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FizzBuzz.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.2"
+  }
+}
