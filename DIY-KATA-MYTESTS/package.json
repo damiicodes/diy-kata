@@ -2,7 +2,7 @@
   "name": "diy-kata-mytests",
   "version": "1.0.0",
   "description": "",
-  "main": "FizzBuzz.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest --coverage"
   },
