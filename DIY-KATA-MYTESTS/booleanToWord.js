@@ -1,9 +1,14 @@
-function booleanToWord() {
-    if (booleanToWord) {
+function booleanToWord(boolean) {
+    if (boolean === true) {
         return "Yes";
-    } else if (!(booleanToWord)) {
+    } else if (boolean === false) {
         return "No";
     }
 }
+
+
+
+
+
 
 module.exports = booleanToWord;
